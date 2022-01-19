@@ -1,0 +1,8 @@
+var primeraNota = 3, segundaNota = 3, terceraNota = 3;
+var average = (primeraNota + segundaNota + terceraNota) / 3;
+if( average > 7){
+console.log("el estudiante X a aprobado");
+} else {
+console.log("el estudiante X a desaprobado");
+} 
+console.log(average);
